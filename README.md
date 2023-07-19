@@ -33,7 +33,7 @@ Para executar o código, siga as etapas abaixo:
 
 Clone este repositório em seu sistema.
 
-No diretório do projeto, instale as dependências executando o seguinte comando: pip install -r requirements.txt.
+No diretório do projeto, instale as dependências executando o seguinte comando: pip install xxx.
 
 Inicie o Airflow e inicie o webserver e o scheduler.
 
